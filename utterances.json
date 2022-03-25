@@ -1,3 +1,5 @@
 {
-    "origins": ["https://yourwebsite.com"]
+    "origins": [
+        "https://yourwebsite.com"
+    ]
 }

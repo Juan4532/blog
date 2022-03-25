@@ -11,7 +11,7 @@ nav:
   pages:
     active: true
   social:
-    active: true
+    active: false
 
 #Featured images in homepage
 featured-img:
@@ -23,7 +23,7 @@ categories:
 
 #Show date and read time under the post title
 date-under-post:
-  active: true
+  active: false
 
 #Use MathJAX
 mathjax:
@@ -31,7 +31,7 @@ mathjax:
 
 #Show related posts based on categories
 related-posts:
-  active: true
+  active: false
   title: "You May Also Enjoy"
 
 #Comments
