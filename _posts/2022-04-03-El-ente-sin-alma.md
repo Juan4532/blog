@@ -2,7 +2,7 @@
 title: El ente sin alma
 layout: post
 categories: [Tonterias]
-image: /assets/img/descarga.jpg
+image: /assets/img/descarga.jpeg
 description: "El ente sin alma"
 ---
 
